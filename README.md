@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameer-qureshi" alt="ameer-qureshi" /></a> </p>
 
-- 🔭 I’m currently working on **Hybrid retrieval-generation systems and agent-based verification pipelines for knowledge-grounded AI**
+- 🔭 I'm currently working on **Hybrid retrieval-generation systems and agent-based verification pipelines for knowledge-grounded AI**
 
-- 🌱 I’m currently learning **Neurosymbolic AI, knowledge graphs, and trustworthy/explainable ML for my M2 program**
+- 🌱 I'm currently learning **Neurosymbolic AI, knowledge graphs, and trustworthy/explainable ML for my M2 program**
 
-- 🤝 I’m looking for help with **Open-source projects in RAG, LLM fine-tuning (LoRA/QLoRA), and hybrid AI/knowledge representation**
+- 🤝 I'm looking for help with **Open-source projects in RAG, LLM fine-tuning (LoRA/QLoRA), and hybrid AI/knowledge representation**
 
 - 💬 Ask me about **RAG systems, parameter-efficient fine-tuning, agentic pipelines (LangGraph, CrewAI), explainable AI**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ameer-qureshi-405592256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ameer-qureshi-405592256" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ameer-qureshi-405592256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameer-qureshi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-qureshi&show_icons=true&locale=en" alt="ameer-qureshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-qureshi&" alt="ameer-qureshi" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=ameer-qureshi" alt="ameer-qureshi" /></p>
